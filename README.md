@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yihunasres
-- 👀 I’m interested in full web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 
 <!---
